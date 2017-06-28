@@ -1,0 +1,85 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/unit/axe armored.png</file>
+        <file>res/unit/axe calvery.png</file>
+        <file>res/unit/axe infantry.png</file>
+	<file>res/unit/axe calvery throwing.png</file>
+	<file>res/unit/sword armored.png</file>
+	<file>res/unit/sword calvery.png</file>
+	<file>res/unit/sword infantry.png</file>
+	<file>res/unit/spear armored.png</file>
+	<file>res/unit/spear calvery.png</file>
+	<file>res/unit/spear infantry.png</file>
+	<file>res/unit/spear calvery throwing.png</file>
+	<file>res/unit/none armored.png</file>
+	<file>res/unit/none calvery.png</file>
+	<file>res/unit/none infantry.png</file>
+	<file>res/unit/none calvery throwing.png</file>
+	<file>res/unit/bow infantry.png</file>
+	<file>res/unit/bow calvery.png</file>
+	<file>res/unit/ballista.png</file>
+	<file>res/unit/castle.png</file>
+	<file>res/unit/longbow infantry.png</file>
+	<file>res/unit/none magic infantry.png</file>
+	<file>res/unit/red magic infantry.png</file>
+	<file>res/unit/blue magic infantry.png</file>
+	<file>res/unit/green magic infantry.png</file>
+	<file>res/unit/sword infantry lord.png</file>
+	<file>res/unit/spear calvery lord.png</file>
+	<file>res/unit/sword infantry throwing.png</file>
+
+	<file>res/map/map1.png</file>
+	<file>res/map/map2.png</file>
+	<file>res/map/map3.png</file>
+
+	<file>res/magic/bomb/bomb0.png</file>
+	<file>res/magic/bomb/bomb1.png</file>
+	<file>res/magic/bomb/bomb2.png</file>
+	<file>res/magic/bomb/bomb3.png</file>
+	<file>res/magic/bomb/bomb4.png</file>
+	<file>res/magic/bomb/bomb5.png</file>
+	<file>res/magic/bomb/bomb6.png</file>
+	<file>res/magic/bomb/bomb7.png</file>
+
+	<file>res/magic/heal/heal0.png</file>
+	<file>res/magic/heal/heal1.png</file>
+	<file>res/magic/heal/heal2.png</file>
+	<file>res/magic/heal/heal3.png</file>
+	<file>res/magic/heal/heal4.png</file>
+	<file>res/magic/heal/heal5.png</file>
+	<file>res/magic/heal/heal6.png</file>
+	<file>res/magic/heal/heal7.png</file>
+
+	<file>res/magic/lightning/lightning0.png</file>
+	<file>res/magic/lightning/lightning1.png</file>
+	<file>res/magic/lightning/lightning2.png</file>
+	<file>res/magic/lightning/lightning3.png</file>
+	<file>res/magic/lightning/lightning4.png</file>
+	<file>res/magic/lightning/lightning5.png</file>
+	<file>res/magic/lightning/lightning6.png</file>
+	<file>res/magic/lightning/lightning7.png</file>
+
+	<file>res/button.png</file>
+	<file>res/icon/attack.png</file>
+	<file>res/icon/change.png</file>
+	<file>res/icon/halt.png</file>
+	<file>res/icon/move.png</file>
+	<file>res/icon/summon.png</file>
+	<file>res/icon/cast.png</file>
+	<file>res/icon/none.png</file>
+
+	<file>res/screen/start screen.png</file>
+	<file>res/screen/trade screen.png</file>
+	<file>res/screen/rank screen.png</file>
+	<file>res/screen/draw screen.png</file>
+
+	<file>res/card/card.png</file>
+	<file>res/card/red type.png</file>
+	<file>res/card/blue type.png</file>
+	<file>res/card/green type.png</file>
+	<file>res/card/none type.png</file>
+
+	<file>res/cursor.png</file>
+	<file>res/fog.png</file>
+   </qresource>
+</RCC>
